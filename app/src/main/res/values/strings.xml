@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Auto Complete TextView</string>
+    <string-array name="data">
+        <item>Ram</item>
+        <item>Ramesh</item>
+        <item>Ramu</item>
+        <item>Chintu</item>
+        <item>Verma</item>
+    </string-array>
+</resources>
